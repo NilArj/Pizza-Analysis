@@ -11,7 +11,7 @@
 The primary objective of this project is to gain valuable insights from pizza sales data, focusing on key metrics. This project involves using Python to import CSV data into a MySQL database, writing SQL queries to extract insights from the data, and visualizing the results using Tableau. Additionally, a comprehensive PDF document is provided that showcases the queries, results.
 
 ## Technologies Used
-+ Python - For importing CSV data into MySQL.
++ Python 3.10.9 - For importing CSV data into MySQL.
 + MySQL - As the relational database management system.
 + SQL - For writing queries to analyze the data.
 + Tableau - For creating interactive data visualizations.
